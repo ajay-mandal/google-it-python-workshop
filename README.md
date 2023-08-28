@@ -1,2 +1,2 @@
 # google-it-python-workshop
-This is demo repo for my python IT certification course offered by google
+I am editing the README file. Adding some more details about the project description.
